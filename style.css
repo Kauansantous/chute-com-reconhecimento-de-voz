@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+
+
+body{
+    background-color: #34a497;
+    color: #DEF5E5;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    font-family: 'Quicksand';
+
+}
+
+.titulo{
+    font-size: 16vh;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 50px; ;
+}    
+
+.subtitulo{
+    font-size: 7vh;
+    font-family: 'Quicksand';
+    margin-top: 12px;
+}
+    
+.mensagem{
+    font-size: 6vh;
+    margin-top: 45px;
+}
+
+.box{
+border: 3px solid #57cebc;
+display: inline-block;
+font-size: 28vh;
+padding: 10px;
+margin: 20px;
+
+
+
+}
+
+
+.acertou{
+    font-size: 19vh;
+
+}
+
+.acertou__numero{
+font-size: 7vh;
+margin-top: 11vh;
+
+}
+
+.btn-jogar{
+padding: 12px 20px;
+border: 2px solid #53b5b0;
+background-color: #79dcd5;
+color: #06646b;
+border-radius: 7px;
+margin-top: 18px;
+font-family: 'Quicksand' solid;
+font-size: 16px;
+
+
+}
